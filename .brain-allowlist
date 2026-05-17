@@ -1,0 +1,20 @@
+# Canonical allowlist of paths that gstack-brain-sync will publish.
+# One glob per line. Anything not matching stays local.
+# Do not edit directly; managed by gstack-artifacts-init. User additions go
+# below the marker and survive re-init.
+projects/*/learnings.jsonl
+projects/*/*-reviews.jsonl
+projects/*/ceo-plans/*.md
+projects/*/ceo-plans/*/*.md
+projects/*/designs/*.md
+projects/*/designs/*/*.md
+projects/*/timeline.jsonl
+retros/*.md
+developer-profile.json
+builder-journey.md
+builder-profile.jsonl
+# NOT synced (machine-local UX state):
+#   projects/*/question-preferences.json (per-machine UX preferences)
+#   projects/*/question-log.jsonl (audit/derivation log stays with preferences)
+#   projects/*/question-events.jsonl (same)
+# ---- USER ADDITIONS BELOW ---- (survives re-init; above is managed)
