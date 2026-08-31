@@ -1,0 +1,4 @@
+{"skill":"design-review-lite","timestamp":"2026-06-12T04:19:03Z","status":"clean","findings":0,"auto_fixed":0,"commit":"4e3203d"}
+{"skill":"review","timestamp":"2026-06-12T04:19:03Z","status":"clean","issues_found":0,"critical":0,"informational":0,"quality_score":10.0,"specialists":{"testing":{"dispatched":false,"reason":"small_diff"},"maintainability":{"dispatched":false,"reason":"small_diff"}},"findings":[],"commit":"4e3203d","via":"ship"}
+{"skill":"adversarial-review","timestamp":"2026-06-12T04:22:47Z","status":"clean","source":"claude","tier":"always","gate":"informational","commit":"4e3203d"}
+{"skill":"ship","timestamp":"2026-06-12T04:26:32Z","coverage_pct":-1,"plan_items_total":0,"plan_items_done":0,"verification_result":"skipped","version":"2026.06.7","branch":"June-10"}
