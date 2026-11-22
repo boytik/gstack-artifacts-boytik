@@ -2,3 +2,4 @@
 {"skill":"design-consultation","event":"started","branch":"main","session":"47059-1793278001-af2cdf80","ts":"2026-10-29T12:46:41.505Z"}
 {"skill":"design-consultation","event":"completed","branch":"main","outcome":"success","duration_s":"10891","session":"47059-1793277991-8629b895","ts":"2026-10-29T15:48:06.699Z"}
 {"skill":"design-consultation","event":"completed","branch":"main","outcome":"unknown","source":"stop-hook","session":"47059-1793278001-af2cdf80","ts":"2026-10-29T15:48:17.886Z"}
+{"skill":"verify","event":"started","branch":"feat/kb-nspm","session":"30567-1795378596-60b50258","ts":"2026-11-22T20:16:36.853Z"}
